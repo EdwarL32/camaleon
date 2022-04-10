@@ -9,8 +9,8 @@
 
 button {
   padding: 15px;
-  background-color: rgba(21, 6, 6, 0.5);
-  color: rgb(255, 255, 255);
+  background-color: transparent;
+  color: rgb(0, 0, 0);
   border: 1px solid black;
 }
 
